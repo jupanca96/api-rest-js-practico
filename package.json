@@ -1,0 +1,19 @@
+{
+  "name": "api-rest-js-practico",
+  "version": "1.0.0",
+  "description": "Curso practico de consumo de api rest con js",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jupanca96/api-rest-js-practico.git"
+  },
+  "author": "jupanca96",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jupanca96/api-rest-js-practico/issues"
+  },
+  "homepage": "https://github.com/jupanca96/api-rest-js-practico#readme"
+}
